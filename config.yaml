@@ -1,0 +1,5 @@
+# config.yaml (jmx exporter config)
+#
+# #
+rules:
+  - pattern: ".*trino.*"
